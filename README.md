@@ -2,7 +2,7 @@
 
 A simple bug tracking app built with React, Vite and Tailwind CSS. Built as a portfolio project that combines frontend development with QA practices.
 
-**Live demo:** <PASTE VERCEL LINK HERE>
+**Live demo:** https://bug-tracker-l7et2febg-sorina-blajan.vercel.app
 
 ![Bug Tracker screenshot](screenshot.png)
 
